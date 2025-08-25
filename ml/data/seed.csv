@@ -1,0 +1,65 @@
+symptoms,label
+headache,paracetamol
+fever,paracetamol
+high temperature,paracetamol
+migraine headache,ibuprofen
+body pain and inflammation,ibuprofen
+joint pain,ibuprofen
+stomach pain,antacid
+acidity indigestion,antacid
+acid reflux,omeprazole
+stomach ulcer,omeprazole
+allergy sneezing,cetirizine
+runny nose itchy eyes,cetirizine
+seasonal allergy,loratadine
+hay fever,loratadine
+dry cough,dextromethorphan
+wet cough with phlegm,guaifenesin
+cough and cold,dextromethorphan
+congestion chesty cough,guaifenesin
+headache fever body ache,paracetamol
+abdominal pain after meals,omeprazole
+body ache with fever,paracetamol
+body ache with fever,paracetamol
+chills and high temperature,paracetamol
+temperature 102 and fatigue,paracetamol
+head pain tension type,paracetamol
+sinus headache pressure forehead,paracetamol
+
+throbbing migraine light sensitivity,ibuprofen
+muscle ache after workout,ibuprofen
+back pain inflammation,ibuprofen
+swollen joints morning stiffness,ibuprofen
+toothache inflammatory pain,ibuprofen
+
+burning sensation in chest after meals,omeprazole
+heartburn at night,omeprazole
+acidic taste in mouth reflux,omeprazole
+upper abdominal burning empty stomach,omeprazole
+
+gastric discomfort indigestion,antacid
+stomach bloating after spicy food,antacid
+sour burps acidity,antacid
+epigastric discomfort relieved by food,antacid
+
+itchy eyes watery nose dust allergy,cetirizine
+sneezing fits morning allergies,cetirizine
+skin rash mild allergy,cetirizine
+nasal congestion with itching,cetirizine
+
+pollen allergy sneezing watery eyes,loratadine
+seasonal allergies spring,loratadine
+hay fever nasal drip,loratadine
+outdoor allergy runny nose,loratadine
+
+dry irritating cough at night,dextromethorphan
+tickle in throat dry cough,dextromethorphan
+persistent non productive cough,dextromethorphan
+
+phlegm thick mucus cough,guaifenesin
+chest congestion with mucus,guaifenesin
+productive cough hard to bring up sputum,guaifenesin
+
+flu like symptoms fever headache,paracetamol
+body pain with swelling,ibuprofen
+acidity with stomach discomfort,antacid
